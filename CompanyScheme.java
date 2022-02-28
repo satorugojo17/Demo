@@ -219,5 +219,9 @@ public class CompanyScheme {
 		return s;
 
 	}
+	
+	public int numberOfNetworks(){
+		return companies.size();
+	}	
 
 }
